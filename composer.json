@@ -1,0 +1,12 @@
+{
+    "name": "seldat/wms2",
+    "description": "package model wms2",
+    "authors": [
+        {
+            "name": "Luan Pham",
+            "email": "luan.pham@seldatinc.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
